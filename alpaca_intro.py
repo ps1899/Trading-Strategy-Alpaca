@@ -100,6 +100,7 @@ async def on_trade_updates(conn, channel, trade):
 		# trade closed - look for new trade
 		trade_params = set_trade_params(candlesticks.df.AAPL)
 
+# Main driver caller
 candlesticks = api.get_barset('AAPL', 'minute', limit=10)
 trade_params = set_trade_params(candlesticks.df.AAPL)
 conn.run(['AM.AAPL', 'trade_updates'])
