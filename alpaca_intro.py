@@ -11,8 +11,8 @@ logging.basicConfig(
 )
 
 # importing all the necessary Alpaca API tools
-api_key = 'PKOUI8V8TOU9VWEKKYDT'
-api_secret = 'j8afLqWGhjReFTT9AcraOOecZTGc5SBT9TaU3we9'
+api_key = 'PKOUI8V8*****WEKKYDT'
+api_secret = 'j8afLqWGhjReFTT9*****OecZTGc5SBT9TaU3we9'
 base_url = 'https://paper-api.alpaca.markets'
 data_url = 'wss://data.alpaca.markets'
 
