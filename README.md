@@ -8,3 +8,6 @@ I have partially hidden my API Key and API Secret ID but you can generate your o
 
 
 Link --->>  https://alpaca.markets/ 
+
+
+**P.S: Please don't try to use the algorithm for live trading, not liable for any loss associated with this algorithm.**
